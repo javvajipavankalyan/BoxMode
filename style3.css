@@ -1,0 +1,38 @@
+.border{
+    background-color: rgb(230, 178, 178);
+    width:300px;
+    height:300px;
+    margin:50px;
+    padding: 20px;
+    padding-right: 6px;
+    text-align: center;
+    } 
+    .margin
+    {
+      background-color: rgb(69, 231, 231);
+      border:2px solid #d86d6d;
+    width:450px;
+    height:450px;
+    margin:20px; 
+    padding-bottom: 25px;
+    text-align: center;
+
+    }
+    .pading
+    {
+      background-color: rgb(128, 117, 156);
+    width:200px;
+    height:200px;
+   padding: 20px;
+   padding-right: 5px;
+    margin:25px;
+    }
+    .elem
+    {
+      background-color: rgb(199, 207, 211);
+      width: 100px;
+      height:100px;
+      padding:20px 20px 20px 20px;
+      margin: 15px;
+      text-align: center;
+    }
